@@ -66,7 +66,7 @@ En el archivo `manifest.json` agregaras el componente correspondiente , recuerda
  
  ### 7. Linkea tu Store Theme
  
- Como ultimo paso, en la consola de tu trabajo base usa el comando  `vtex ls` con el fin de ver que este correctamente instalado tu componente custom, debes poder visualizar tus conentes instalados.
+ Como ultimo paso, en la consola de tu trabajo base usa el comando  `vtex ls` con el fin de ver que este correctamente instalado tu componente custom, debes poder visualizar tus componentes instalados.
  
   ```json
     Linked Apps in itgloberspartnercl at workspace fernandopachon
