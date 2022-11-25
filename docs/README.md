@@ -32,7 +32,7 @@ Este componente utilizo el [Template custom](http://https://github.com/vtex-apps
    
 ### 4. Linkea el componente custom
 
-Antes de poder renderizar el componente en tu store theme debes ejecutar el comando `vte link`, esto instalara en tu workspace los componentes custom.
+Antes de poder renderizar el componente en tu store theme debes ejecutar el comando `vtex link`, esto instalara en tu workspace los componentes custom.
 
 `info: Sending locale change event vtex.builder-hub@0.285.4`
 
